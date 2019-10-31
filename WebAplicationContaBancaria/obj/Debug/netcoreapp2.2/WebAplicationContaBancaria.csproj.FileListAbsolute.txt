@@ -1,0 +1,15 @@
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\WebAplicationContaBancaria.deps.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\WebAplicationContaBancaria.runtimeconfig.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\WebAplicationContaBancaria.runtimeconfig.dev.json
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\WebAplicationContaBancaria.dll
+D:\Projects\WebAplicationContaBancaria\bin\Debug\netcoreapp2.2\WebAplicationContaBancaria.pdb
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.RazorAssemblyInfo.cache
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.RazorAssemblyInfo.cs
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.AssemblyInfoInputs.cache
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.AssemblyInfo.cs
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.RazorTargetAssemblyInfo.cache
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.dll
+D:\Projects\WebAplicationContaBancaria\obj\Debug\netcoreapp2.2\WebAplicationContaBancaria.pdb

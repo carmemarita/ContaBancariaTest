@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAplicationContaBancaria", "WebAplicationContaBancaria.csproj", "{A3873B12-52B9-46BB-873A-91F24DA6CEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAplicationContaBancariaTest", "..\WebAplicationContaBancariaTest\WebAplicationContaBancariaTest.csproj", "{C3375280-0CE3-4EA2-8041-B9A05EB1508B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3873B12-52B9-46BB-873A-91F24DA6CEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3873B12-52B9-46BB-873A-91F24DA6CEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3873B12-52B9-46BB-873A-91F24DA6CEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3873B12-52B9-46BB-873A-91F24DA6CEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3375280-0CE3-4EA2-8041-B9A05EB1508B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3375280-0CE3-4EA2-8041-B9A05EB1508B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3375280-0CE3-4EA2-8041-B9A05EB1508B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3375280-0CE3-4EA2-8041-B9A05EB1508B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4590A59-443F-4FBE-9A8B-1851FF8CA6A2}
+	EndGlobalSection
+EndGlobal
